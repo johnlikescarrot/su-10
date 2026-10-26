@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 235" width="860" height="235">
+  <rect x="2" y="2" width="856" height="231" rx="12" fill="#FAF8F5" stroke="#D6CFC7" stroke-width="1.4"/>
+  <text x="430" y="26" text-anchor="middle" font-family="Be Vietnam Pro, sans-serif" font-size="13" font-weight="700" fill="#0F766E">SƠ ĐỒ TƯ DUY BÀI 2: QUY TRÌNH 4 BƯỚC SỬ LIỆU &amp; HỌC TẬP LỊCH SỬ SUỐT ĐỜI (2,75 ĐIỂM)</text>
+
+  <!-- 4 Steps Pipeline -->
+  <!-- Step 1 -->
+  <rect x="18" y="42" width="192" height="92" rx="8" fill="#EFF6FF" stroke="#2563EB" stroke-width="1.4"/>
+  <rect x="18" y="42" width="192" height="24" rx="8" fill="#1D4ED8"/>
+  <text x="114" y="58" text-anchor="middle" font-family="Be Vietnam Pro, sans-serif" font-size="10" font-weight="700" fill="#FFFFFF">BƯỚC 1: LẬP DANH MỤC (L)</text>
+  <text x="28" y="81" font-family="Be Vietnam Pro, sans-serif" font-size="9.2" fill="#1E293B">• Xác định vấn đề tìm hiểu</text>
+  <text x="28" y="98" font-family="Be Vietnam Pro, sans-serif" font-size="9.2" fill="#1E293B">• Lập thư mục &amp; danh sách</text>
+  <text x="28" y="115" font-family="Be Vietnam Pro, sans-serif" font-size="9.2" font-weight="600" fill="#1D4ED8">  nguồn sử liệu cần sưu tầm</text>
+
+  <polygon points="222,88 213,83 213,93" fill="#64748B"/>
+
+  <!-- Step 2 -->
+  <rect x="226" y="42" width="194" height="92" rx="8" fill="#F0FDFA" stroke="#0D9488" stroke-width="1.4"/>
+  <rect x="226" y="42" width="194" height="24" rx="8" fill="#0F766E"/>
+  <text x="323" y="58" text-anchor="middle" font-family="Be Vietnam Pro, sans-serif" font-size="10" font-weight="700" fill="#FFFFFF">BƯỚC 2: SƯU TẦM &amp; ĐỌC (S)</text>
+  <text x="236" y="81" font-family="Be Vietnam Pro, sans-serif" font-size="9.2" fill="#1E293B">• Tìm kiếm, khảo sát, phỏng vấn</text>
+  <text x="236" y="98" font-family="Be Vietnam Pro, sans-serif" font-size="9.2" fill="#1E293B">• Đọc và ghi chép thông tin</text>
+  <text x="236" y="115" font-family="Be Vietnam Pro, sans-serif" font-size="9.2" font-weight="600" fill="#0F766E">→ Khâu: THU THẬP SỬ LIỆU</text>
+
+  <polygon points="432,88 423,83 423,93" fill="#64748B"/>
+
+  <!-- Step 3 -->
+  <rect x="436" y="42" width="194" height="92" rx="8" fill="#FFFBEB" stroke="#D97706" stroke-width="1.4"/>
+  <rect x="436" y="42" width="194" height="24" rx="8" fill="#B45309"/>
+  <text x="533" y="58" text-anchor="middle" font-family="Be Vietnam Pro, sans-serif" font-size="10" font-weight="700" fill="#FFFFFF">BƯỚC 3: CHỌN LỌC (C)</text>
+  <text x="446" y="81" font-family="Be Vietnam Pro, sans-serif" font-size="9.2" fill="#1E293B">• Chọn lọc tư liệu sát chủ đề</text>
+  <text x="446" y="98" font-family="Be Vietnam Pro, sans-serif" font-size="9.2" fill="#1E293B">• Phân loại theo nhóm/dạng</text>
+  <text x="446" y="115" font-family="Be Vietnam Pro, sans-serif" font-size="9.2" font-weight="600" fill="#B45309">→ Mở đầu XỬ LÍ SỬ LIỆU</text>
+
+  <polygon points="642,88 633,83 633,93" fill="#64748B"/>
+
+  <!-- Step 4 -->
+  <rect x="646" y="42" width="196" height="92" rx="8" fill="#FEF2F2" stroke="#DC2626" stroke-width="1.4"/>
+  <rect x="646" y="42" width="196" height="24" rx="8" fill="#991B1B"/>
+  <text x="744" y="58" text-anchor="middle" font-family="Be Vietnam Pro, sans-serif" font-size="10" font-weight="700" fill="#FFFFFF">BƯỚC 4: XÁC MINH (X)</text>
+  <text x="656" y="81" font-family="Be Vietnam Pro, sans-serif" font-size="9.2" fill="#1E293B">• Thẩm định nguồn gốc, niên đại</text>
+  <text x="656" y="98" font-family="Be Vietnam Pro, sans-serif" font-size="9.2" fill="#1E293B">• So sánh, đánh giá độ tin cậy</text>
+  <text x="656" y="115" font-family="Be Vietnam Pro, sans-serif" font-size="9.2" font-weight="600" fill="#991B1B">→ Cốt lõi XỬ LÍ SỬ LIỆU</text>
+
+  <!-- Bottom 2 Panels -->
+  <rect x="18" y="146" width="402" height="75" rx="8" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.2"/>
+  <text x="30" y="165" font-family="Be Vietnam Pro, sans-serif" font-size="10.2" font-weight="700" fill="#1E3A5F">4 Loại hình Sử liệu (Khẩu quyết: K – V – A – T):</text>
+  <text x="30" y="184" font-family="Be Vietnam Pro, sans-serif" font-size="9.3" fill="#334155">1. Truyền Khẩu (truyền thuyết, lời kể) • 2. Hiện Vật (trống đồng, lá đề)</text>
+  <text x="30" y="201" font-family="Be Vietnam Pro, sans-serif" font-size="9.3" fill="#334155">3. Hình Ảnh (ảnh chụp, băng hình) • 4. Thành Văn (bia đá, Tuyên ngôn)</text>
+  <text x="30" y="215" font-family="Be Vietnam Pro, sans-serif" font-size="8.8" font-style="italic" fill="#0F766E">Phân cấp: Sử liệu sơ cấp (bản gốc đương thời) &gt; Sử liệu thứ cấp (biên soạn sau)</text>
+
+  <rect x="436" y="146" width="406" height="75" rx="8" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.2"/>
+  <text x="448" y="165" font-family="Be Vietnam Pro, sans-serif" font-size="10.2" font-weight="700" fill="#7C1D26">4 Lí do Học tập &amp; Khám phá Lịch sử Suốt đời (V – B – H – N):</text>
+  <text x="448" y="184" font-family="Be Vietnam Pro, sans-serif" font-size="9.3" fill="#334155">• (V) Vận dụng kinh nghiệm quá khứ vào hiện tại &amp; định hướng tương lai</text>
+  <text x="448" y="200" font-family="Be Vietnam Pro, sans-serif" font-size="9.3" fill="#334155">• (B) Bí ẩn/khoảng trống &amp; sử liệu mới • (H) Hội nhập, giữ bản sắc văn hóa</text>
+  <text x="448" y="215" font-family="Be Vietnam Pro, sans-serif" font-size="9.3" fill="#334155">• (N) Nghề nghiệp mới &amp; nguồn cảm hứng cho công nghiệp văn hóa, du lịch</text>
+</svg>

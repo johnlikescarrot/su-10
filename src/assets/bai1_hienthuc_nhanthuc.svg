@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 250" width="860" height="250">
+  <rect x="2" y="2" width="856" height="246" rx="12" fill="#FAF8F5" stroke="#D6CFC7" stroke-width="1.4"/>
+  <text x="430" y="26" text-anchor="middle" font-family="Be Vietnam Pro, sans-serif" font-size="13" font-weight="700" fill="#7C1D26">SƠ ĐỒ TƯ DUY BÀI 1: HIỆN THỰC LỊCH SỬ — NHẬN THỨC LỊCH SỬ — SỬ HỌC (1,50 ĐIỂM)</text>
+
+  <!-- Box Left: Hien thuc lich su -->
+  <rect x="20" y="42" width="248" height="106" rx="9" fill="#EFF6FF" stroke="#2563EB" stroke-width="1.6"/>
+  <rect x="20" y="42" width="248" height="26" rx="9" fill="#1E40AF"/>
+  <text x="144" y="59" text-anchor="middle" font-family="Be Vietnam Pro, sans-serif" font-size="11" font-weight="700" fill="#FFFFFF">HIỆN THỰC LỊCH SỬ (Khẩu quyết: 1–K–B)</text>
+  <text x="32" y="84" font-family="Be Vietnam Pro, sans-serif" font-size="9.6" fill="#1E293B">• Tất cả những gì ĐÃ DIỄN RA trong quá khứ</text>
+  <text x="32" y="101" font-family="Be Vietnam Pro, sans-serif" font-size="9.6" font-weight="600" fill="#1E40AF">• Duy nhất (chỉ có 1) • Tồn tại KHÁCH QUAN</text>
+  <text x="32" y="118" font-family="Be Vietnam Pro, sans-serif" font-size="9.6" fill="#1E293B">• BẤT BIẾN (không thể thay đổi, độc lập ý muốn)</text>
+  <text x="32" y="135" font-family="Be Vietnam Pro, sans-serif" font-size="9.2" font-style="italic" fill="#475569">VD: Sự kiện Bác Hồ đọc Tuyên ngôn 2/9/1945</text>
+
+  <!-- Bridge: Su lieu -->
+  <rect x="294" y="66" width="132" height="58" rx="29" fill="#FEF3C7" stroke="#D97706" stroke-width="1.6"/>
+  <text x="360" y="90" text-anchor="middle" font-family="Be Vietnam Pro, sans-serif" font-size="10.5" font-weight="700" fill="#92400E">SỬ LIỆU</text>
+  <text x="360" y="106" text-anchor="middle" font-family="Be Vietnam Pro, sans-serif" font-size="8.8" fill="#78350F">Cầu nối trung gian</text>
+  <line x1="268" y1="95" x2="294" y2="95" stroke="#D97706" stroke-width="2"/>
+  <line x1="426" y1="95" x2="452" y2="95" stroke="#D97706" stroke-width="2"/>
+  <polygon points="454,95 445,90 445,100" fill="#D97706"/>
+
+  <!-- Box Right: Nhan thuc lich su -->
+  <rect x="456" y="42" width="384" height="106" rx="9" fill="#FEF2F2" stroke="#DC2626" stroke-width="1.6"/>
+  <rect x="456" y="42" width="384" height="26" rx="9" fill="#991B1B"/>
+  <text x="648" y="59" text-anchor="middle" font-family="Be Vietnam Pro, sans-serif" font-size="11" font-weight="700" fill="#FFFFFF">NHẬN THỨC LỊCH SỬ (Khẩu quyết: N–K/C–Đ)</text>
+  <text x="468" y="84" font-family="Be Vietnam Pro, sans-serif" font-size="9.6" fill="#1E293B">• Những HIỂU BIẾT của con người về hiện thực lịch sử</text>
+  <text x="468" y="101" font-family="Be Vietnam Pro, sans-serif" font-size="9.6" font-weight="600" fill="#991B1B">• Đa dạng, NHIỀU CÁCH tái hiện • Vừa KHÁCH QUAN vừa CHỦ QUAN</text>
+  <text x="468" y="118" font-family="Be Vietnam Pro, sans-serif" font-size="9.6" fill="#1E293B">• Có khoảng cách với hiện thực; ĐỔI MỚI khi có sử liệu mới</text>
+  <text x="468" y="135" font-family="Be Vietnam Pro, sans-serif" font-size="9.2" fill="#475569">Chi phối bởi: (1) Nhu cầu/năng lực • (2) Phương pháp • (3) Sử liệu • (4) Thái độ</text>
+
+  <!-- Bottom Row: Su hoc -->
+  <rect x="20" y="162" width="820" height="74" rx="9" fill="#FFFFFF" stroke="#0F766E" stroke-width="1.5"/>
+  <rect x="20" y="162" width="190" height="74" rx="9" fill="#0F766E"/>
+  <text x="115" y="187" text-anchor="middle" font-family="Be Vietnam Pro, sans-serif" font-size="11.5" font-weight="700" fill="#FFFFFF">SỬ HỌC LÀ GÌ?</text>
+  <text x="115" y="205" text-anchor="middle" font-family="Be Vietnam Pro, sans-serif" font-size="9.2" fill="#CCFBF1">Khoa học nghiên cứu</text>
+  <text x="115" y="220" text-anchor="middle" font-family="Be Vietnam Pro, sans-serif" font-size="9.2" font-weight="700" fill="#FFFFFF">quá khứ của LOÀI NGƯỜI</text>
+
+  <text x="222" y="182" font-family="Be Vietnam Pro, sans-serif" font-size="9.0" font-weight="700" fill="#0F766E">Đối tượng:</text>
+  <text x="282" y="182" font-family="Be Vietnam Pro, sans-serif" font-size="8.8" fill="#1E293B">Toàn bộ quá khứ loài người (cá nhân, nhóm, cộng đồng, quốc gia, khu vực, nhân loại) — toàn diện, đa dạng.</text>
+
+  <text x="222" y="203" font-family="Be Vietnam Pro, sans-serif" font-size="9.0" font-weight="700" fill="#1E40AF">2 Chức năng:</text>
+  <text x="294" y="203" font-family="Be Vietnam Pro, sans-serif" font-size="8.8" fill="#1E293B">(1) Khoa học (khôi phục sự kiện + tìm quy luật) • (2) Xã hội (giáo dục đạo đức + rút bài học hiện tại).</text>
+
+  <text x="222" y="223" font-family="Be Vietnam Pro, sans-serif" font-size="9.0" font-weight="700" fill="#991B1B">3 Nhiệm vụ:</text>
+  <text x="290" y="223" font-family="Be Vietnam Pro, sans-serif" font-size="8.8" fill="#1E293B">(1) Nhận thức (tri thức khoa học) • (2) Giáo dục (truyền thống, nhân cách) • (3) Dự báo (xu thế tương lai).</text>
+</svg>

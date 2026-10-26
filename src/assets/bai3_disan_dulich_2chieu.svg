@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 255" width="860" height="255">
+  <rect x="2" y="2" width="856" height="251" rx="12" fill="#FAF8F5" stroke="#D6CFC7" stroke-width="1.4"/>
+  <text x="430" y="26" text-anchor="middle" font-family="Be Vietnam Pro, sans-serif" font-size="13" font-weight="700" fill="#7C1D26">SƠ ĐỒ TƯ DUY BÀI 3: SỬ HỌC — BẢO TỒN DI SẢN — PHÁT TRIỂN DU LỊCH (TRỌNG TÂM 5,75 ĐIỂM!)</text>
+
+  <!-- Pillar 1: Su hoc -->
+  <rect x="18" y="44" width="232" height="136" rx="9" fill="#EFF6FF" stroke="#2563EB" stroke-width="1.5"/>
+  <rect x="18" y="44" width="232" height="26" rx="9" fill="#1E3A5F"/>
+  <text x="134" y="61" text-anchor="middle" font-family="Be Vietnam Pro, sans-serif" font-size="10.5" font-weight="700" fill="#FFFFFF">1. NGHIÊN CỨU SỬ HỌC</text>
+  <text x="28" y="86" font-family="Be Vietnam Pro, sans-serif" font-size="9.3" font-weight="600" fill="#1E3A5F">Khoa học có tính LIÊN NGÀNH:</text>
+  <text x="28" y="103" font-family="Be Vietnam Pro, sans-serif" font-size="9.1" fill="#334155">• Xác định giá trị lịch sử, văn hóa,</text>
+  <text x="28" y="118" font-family="Be Vietnam Pro, sans-serif" font-size="9.1" fill="#334155">  kiến trúc, mĩ thuật, khoa học</text>
+  <text x="28" y="135" font-family="Be Vietnam Pro, sans-serif" font-size="9.1" font-weight="700" fill="#991B1B">• Là CƠ SỞ KHOA HỌC vững chắc</text>
+  <text x="28" y="151" font-family="Be Vietnam Pro, sans-serif" font-size="9.1" fill="#334155">• Giữ 3 nguyên tắc vàng (3G):</text>
+  <text x="28" y="167" font-family="Be Vietnam Pro, sans-serif" font-size="9.1" font-weight="700" fill="#1D4ED8">  Yếu tố Gốc • Xác thực • Toàn vẹn</text>
+
+  <!-- Arrow 1->2 -->
+  <line x1="250" y1="112" x2="286" y2="112" stroke="#1E3A5F" stroke-width="2.2"/>
+  <polygon points="290,112 280,106 280,118" fill="#1E3A5F"/>
+
+  <!-- Pillar 2: Di san -->
+  <rect x="292" y="44" width="268" height="136" rx="9" fill="#FFFBEB" stroke="#D97706" stroke-width="1.6"/>
+  <rect x="292" y="44" width="268" height="26" rx="9" fill="#B45309"/>
+  <text x="426" y="61" text-anchor="middle" font-family="Be Vietnam Pro, sans-serif" font-size="10.5" font-weight="700" fill="#FFFFFF">2. DI SẢN VĂN HÓA &amp; THIÊN NHIÊN</text>
+  <text x="302" y="86" font-family="Be Vietnam Pro, sans-serif" font-size="8.8" fill="#1E293B">• <tspan font-weight="700" fill="#92400E">DSVH Vật thể:</tspan> chống xuống cấp, kéo dài tuổi thọ</text>
+  <text x="302" y="104" font-family="Be Vietnam Pro, sans-serif" font-size="8.8" fill="#1E293B">• <tspan font-weight="700" fill="#92400E">DSVH Phi vật thể:</tspan> truyền nghề, lưu truyền thế hệ</text>
+  <text x="302" y="122" font-family="Be Vietnam Pro, sans-serif" font-size="8.8" fill="#1E293B">• <tspan font-weight="700" fill="#0F766E">DS Thiên nhiên:</tspan> bảo vệ đa dạng sinh học, khoa học</text>
+  <text x="302" y="140" font-family="Be Vietnam Pro, sans-serif" font-size="8.8" fill="#1E293B">• <tspan font-weight="700" fill="#7C1D26">DS Hỗn hợp:</tspan> hội tụ văn hóa &amp; thiên nhiên (Tràng An)</text>
+  <text x="302" y="160" font-family="Be Vietnam Pro, sans-serif" font-size="8.5" font-weight="700" fill="#0F766E">→ Động lực phát triển KT–XH địa phương bền vững</text>
+
+  <!-- Two-way arrows 2 <-> 3 -->
+  <line x1="560" y1="95" x2="602" y2="95" stroke="#0F766E" stroke-width="2.2"/>
+  <polygon points="606,95 596,89 596,101" fill="#0F766E"/>
+  <text x="583" y="87" text-anchor="middle" font-family="Be Vietnam Pro, sans-serif" font-size="8.2" font-weight="700" fill="#0F766E">Tài nguyên</text>
+
+  <line x1="606" y1="132" x2="564" y2="132" stroke="#991B1B" stroke-width="2.2"/>
+  <polygon points="560,132 570,126 570,138" fill="#991B1B"/>
+  <text x="583" y="146" text-anchor="middle" font-family="Be Vietnam Pro, sans-serif" font-size="8.2" font-weight="700" fill="#991B1B">Tái đầu tư</text>
+
+  <!-- Pillar 3: Du lich -->
+  <rect x="608" y="44" width="234" height="136" rx="9" fill="#F0FDFA" stroke="#0F766E" stroke-width="1.5"/>
+  <rect x="608" y="44" width="234" height="26" rx="9" fill="#0F766E"/>
+  <text x="725" y="61" text-anchor="middle" font-family="Be Vietnam Pro, sans-serif" font-size="10.5" font-weight="700" fill="#FFFFFF">3. PHÁT TRIỂN DU LỊCH</text>
+  <text x="618" y="86" font-family="Be Vietnam Pro, sans-serif" font-size="9.2" font-weight="700" fill="#0F766E">Tác động ngược lại bảo tồn:</text>
+  <text x="618" y="103" font-family="Be Vietnam Pro, sans-serif" font-size="9.1" fill="#334155">• Thúc đẩy bảo vệ di tích quốc gia</text>
+  <text x="618" y="119" font-family="Be Vietnam Pro, sans-serif" font-size="9.1" fill="#334155">• Thôi thúc chính quyền &amp; dân giữ gìn</text>
+  <text x="618" y="135" font-family="Be Vietnam Pro, sans-serif" font-size="9.1" font-weight="600" fill="#991B1B">• Trích doanh thu tái đầu tư tôn tạo</text>
+  <text x="618" y="151" font-family="Be Vietnam Pro, sans-serif" font-size="9.1" fill="#334155">• Phục dựng, truyền dạy phi vật thể</text>
+  <text x="618" y="167" font-family="Be Vietnam Pro, sans-serif" font-size="9.1" fill="#334155">• Quảng bá văn hóa VN ra thế giới</text>
+
+  <!-- Bottom Banner: Essay 4T Formula -->
+  <rect x="18" y="192" width="824" height="50" rx="8" fill="#FEF2F2" stroke="#DC2626" stroke-width="1.3"/>
+  <text x="32" y="212" font-family="Be Vietnam Pro, sans-serif" font-size="10" font-weight="700" fill="#991B1B">CÔNG THỨC 4T GIẢI QUYẾT CÂU TỰ LUẬN VẬN DỤNG (2,0 ĐIỂM) — BIỆN PHÁP BẢO TỒN &amp; PHÁT HUY DI SẢN:</text>
+  <text x="32" y="230" font-family="Be Vietnam Pro, sans-serif" font-size="9.3" fill="#1E293B">(1) <tspan font-weight="700" fill="#991B1B">Tuyên truyền</tspan> nâng cao ý thức cộng đồng  •  (2) <tspan font-weight="700" fill="#991B1B">Tôn tạo</tspan> khoa học (giữ yếu tố gốc)  •  (3) <tspan font-weight="700" fill="#991B1B">Thích ứng</tspan> du lịch bền vững &amp; số hóa  •  (4) <tspan font-weight="700" fill="#991B1B">Thanh tra</tspan> bảo vệ &amp; hành động học sinh</text>
+</svg>
