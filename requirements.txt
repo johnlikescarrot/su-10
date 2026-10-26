@@ -1,0 +1,8 @@
+# Tao PDF de cuong on tap Lich su 10 (Ket noi tri thuc)
+# Cai: python3 -m pip install -r requirements.txt
+reportlab>=4.0
+fonttools>=4.40
+
+# Chi dung cho buoc QA (src/verify_pdf.py). Co the thay bang pypdf.
+pymupdf>=1.23
+pypdf>=4.0
