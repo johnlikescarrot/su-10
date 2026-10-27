@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 285" width="860" height="285">
+  <defs>
+    <linearGradient id="bgCard" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#FAF8F5"/>
+      <stop offset="100%" stop-color="#F3EFEA"/>
+    </linearGradient>
+  </defs>
+  <rect x="2" y="2" width="856" height="281" rx="12" fill="url(#bgCard)" stroke="#D6CFC7" stroke-width="1.5"/>
+  <text x="430" y="28" text-anchor="middle" font-family="Be Vietnam Pro, sans-serif" font-size="14" font-weight="700" fill="#7C1D26">BỨC TRANH TRỌNG SỐ ĐIỂM SỐ ĐỀ KIỂM TRA GIỮA HỌC KÌ 1 (10,0 ĐIỂM — 45 PHÚT)</text>
+
+  <!-- Panel 1: By Lesson -->
+  <rect x="18" y="44" width="272" height="225" rx="9" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1.2"/>
+  <text x="154" y="66" text-anchor="middle" font-family="Be Vietnam Pro, sans-serif" font-size="12" font-weight="700" fill="#1E3A5F">1. THEO BÀI HỌC (SGK KNTT)</text>
+
+  <!-- Bai 1 -->
+  <text x="32" y="94" font-family="Be Vietnam Pro, sans-serif" font-size="10.5" font-weight="600" fill="#334155">Bài 1. Hiện thực &amp; Nhận thức LS</text>
+  <text x="276" y="94" text-anchor="end" font-family="Be Vietnam Pro, sans-serif" font-size="10.5" font-weight="700" fill="#1E3A5F">1,50đ (15%)</text>
+  <rect x="32" y="101" width="244" height="14" rx="7" fill="#E2E8F0"/>
+  <rect x="32" y="101" width="37" height="14" rx="7" fill="#2563EB"/>
+  <text x="32" y="128" font-family="Be Vietnam Pro, sans-serif" font-size="9.2" fill="#64748B">6 câu TN (I.1→I.6) • Không Đ/S, không TL</text>
+
+  <!-- Bai 2 -->
+  <text x="32" y="152" font-family="Be Vietnam Pro, sans-serif" font-size="10.5" font-weight="600" fill="#334155">Bài 2. Tri thức LS &amp; Cuộc sống</text>
+  <text x="276" y="152" text-anchor="end" font-family="Be Vietnam Pro, sans-serif" font-size="10.5" font-weight="700" fill="#0F766E">2,75đ (27,5%)</text>
+  <rect x="32" y="159" width="244" height="14" rx="7" fill="#E2E8F0"/>
+  <rect x="32" y="159" width="67" height="14" rx="7" fill="#0F766E"/>
+  <text x="32" y="186" font-family="Be Vietnam Pro, sans-serif" font-size="9.2" fill="#64748B">7 câu TN (I.7→I.13) + 1 câu Đ/S (II.1a–d)</text>
+
+  <!-- Bai 3 -->
+  <text x="32" y="210" font-family="Be Vietnam Pro, sans-serif" font-size="10.5" font-weight="700" fill="#7C1D26">Bài 3. Vai trò của Sử học ★</text>
+  <text x="276" y="210" text-anchor="end" font-family="Be Vietnam Pro, sans-serif" font-size="11" font-weight="800" fill="#7C1D26">5,75đ (57,5%)</text>
+  <rect x="32" y="217" width="244" height="16" rx="8" fill="#FEE2E2"/>
+  <rect x="32" y="217" width="140" height="16" rx="8" fill="#991B1B"/>
+  <text x="32" y="248" font-family="Be Vietnam Pro, sans-serif" font-size="9.2" font-weight="600" fill="#991B1B">7 câu TN + 1 câu Đ/S + Trọn vẹn 3,0đ TL!</text>
+
+  <!-- Panel 2: By Exam Part -->
+  <rect x="302" y="44" width="256" height="225" rx="9" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1.2"/>
+  <text x="430" y="66" text-anchor="middle" font-family="Be Vietnam Pro, sans-serif" font-size="12" font-weight="700" fill="#1E3A5F">2. THEO DẠNG THỨC ĐỀ THI</text>
+
+  <rect x="316" y="82" width="228" height="50" rx="8" fill="#EFF6FF" stroke="#BFDBFE" stroke-width="1"/>
+  <text x="328" y="101" font-family="Be Vietnam Pro, sans-serif" font-size="11" font-weight="700" fill="#1D4ED8">Phần I: TN Nhiều lựa chọn</text>
+  <text x="532" y="101" text-anchor="end" font-family="Be Vietnam Pro, sans-serif" font-size="12" font-weight="800" fill="#1D4ED8">5,0đ</text>
+  <text x="328" y="120" font-family="Be Vietnam Pro, sans-serif" font-size="9.5" fill="#475569">20 câu (I.1 → I.20) × 0,25đ/câu (50%)</text>
+
+  <rect x="316" y="142" width="228" height="50" rx="8" fill="#F0FDFA" stroke="#99F6E4" stroke-width="1"/>
+  <text x="328" y="161" font-family="Be Vietnam Pro, sans-serif" font-size="11" font-weight="700" fill="#0F766E">Phần II: TN Đúng / Sai</text>
+  <text x="532" y="161" text-anchor="end" font-family="Be Vietnam Pro, sans-serif" font-size="12" font-weight="800" fill="#0F766E">2,0đ</text>
+  <text x="328" y="180" font-family="Be Vietnam Pro, sans-serif" font-size="9.5" fill="#475569">2 câu (8 ý a–d) × 1,0đ/câu (20%)</text>
+
+  <rect x="316" y="202" width="228" height="54" rx="8" fill="#FEF2F2" stroke="#FECACA" stroke-width="1"/>
+  <text x="328" y="221" font-family="Be Vietnam Pro, sans-serif" font-size="11" font-weight="700" fill="#991B1B">Phần III: Tự luận (Bài 3)</text>
+  <text x="532" y="221" text-anchor="end" font-family="Be Vietnam Pro, sans-serif" font-size="12" font-weight="800" fill="#991B1B">3,0đ</text>
+  <text x="328" y="239" font-family="Be Vietnam Pro, sans-serif" font-size="9.3" fill="#475569">1 câu 2 vế: Ý 1 Biết (1,0đ) + Ý 2 VD (2,0đ)</text>
+
+  <!-- Panel 3: By Cognitive Level & Competency -->
+  <rect x="570" y="44" width="272" height="225" rx="9" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1.2"/>
+  <text x="706" y="66" text-anchor="middle" font-family="Be Vietnam Pro, sans-serif" font-size="12" font-weight="700" fill="#1E3A5F">3. CẤP ĐỘ TƯ DUY &amp; NĂNG LỰC</text>
+
+  <!-- Stacked bar for Thinking levels -->
+  <text x="584" y="90" font-family="Be Vietnam Pro, sans-serif" font-size="10" font-weight="700" fill="#334155">Tỷ lệ cấp độ tư duy (50% – 25% – 25%):</text>
+  <rect x="584" y="98" width="122" height="24" rx="4" fill="#1E40AF"/>
+  <text x="645" y="114" text-anchor="middle" font-family="Be Vietnam Pro, sans-serif" font-size="9.5" font-weight="700" fill="#FFFFFF">Biết: 5,0đ</text>
+  <rect x="708" y="98" width="60" height="24" rx="4" fill="#0D9488"/>
+  <text x="738" y="114" text-anchor="middle" font-family="Be Vietnam Pro, sans-serif" font-size="9.5" font-weight="700" fill="#FFFFFF">Hiểu 2,5</text>
+  <rect x="770" y="98" width="58" height="24" rx="4" fill="#B45309"/>
+  <text x="799" y="114" text-anchor="middle" font-family="Be Vietnam Pro, sans-serif" font-size="9.5" font-weight="700" fill="#FFFFFF">VD 2,5</text>
+
+  <text x="584" y="140" font-family="Be Vietnam Pro, sans-serif" font-size="9.2" fill="#475569">• Biết: 16 lệnh TN (4,0đ) + 1/2 TL (1,0đ)</text>
+  <text x="584" y="156" font-family="Be Vietnam Pro, sans-serif" font-size="9.2" fill="#475569">• Hiểu: 10 lệnh TN (2,5đ)</text>
+  <text x="584" y="172" font-family="Be Vietnam Pro, sans-serif" font-size="9.2" fill="#475569">• Vận dụng: 2 ý Đ/S d (0,5đ) + 1/2 TL (2,0đ)</text>
+
+  <line x1="584" y1="184" x2="828" y2="184" stroke="#E2E8F0" stroke-width="1"/>
+  <text x="584" y="202" font-family="Be Vietnam Pro, sans-serif" font-size="10" font-weight="700" fill="#334155">Tỷ lệ 3 năng lực Lịch sử (40%–30%–30%):</text>
+  <text x="584" y="220" font-family="Be Vietnam Pro, sans-serif" font-size="9.3" fill="#1E3A5F">• NL1 (Tìm hiểu lịch sử): 4,0 điểm (40%)</text>
+  <text x="584" y="236" font-family="Be Vietnam Pro, sans-serif" font-size="9.3" fill="#0F766E">• NL2 (Nhận thức &amp; tư duy): 3,0 điểm (30%)</text>
+  <text x="584" y="252" font-family="Be Vietnam Pro, sans-serif" font-size="9.3" fill="#991B1B">• NL3 (Vận dụng kiến thức): 3,0 điểm (30%)</text>
+</svg>
